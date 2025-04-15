@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<updates>
+  <version number="1.0.0.1">
+    <description>Bug fixes and performance improvements.</description>
+    <downloadUrl>http://example.com/updates/myapp-v1.0.1.msi</downloadUrl>
+  </version>
+</updates>
